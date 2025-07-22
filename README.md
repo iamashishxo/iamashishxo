@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish Manahs</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-<!--
-**iamashishxo/iamashishxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+for work? do reach, [email](mailto:ashishmanhas231@gmail.com) :)
 
-Here are some ideas to get you started:
+📊 **I spent my time on:**
+<!--START_SECTION:waka-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+TypeScript   6 hrs 51 mins  █████████████████████████   28.97 %
+Java         5 hrs 51 mins  █████████████████████████   23.97 %
+```
+
+<!--END_SECTION:waka-->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamashishxo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
+
+
+
