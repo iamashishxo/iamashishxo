@@ -7,8 +7,10 @@ for work? do reach, [email](mailto:ashishmanhas231@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 51 mins  █████████████████████████   28.97 %
-Java         5 hrs 51 mins  █████████████████████████   23.97 %
+TypeScript   5 hrs 51 mins  █████████████████████████   20.97 %
+Java         3 hrs 51 mins  █████████████████████████   13.97 %
+JavaScript   4 hrs 51 mins  █████████████████████████   17.97 %
+
 ```
 
 <!--END_SECTION:waka-->
